@@ -1,0 +1,15 @@
+{
+  "name": "flatirondemo",
+  "version": "0.0.0",
+  "description": "flatirondemo",
+  "dependencies": {
+    "flatiron": "*",
+    "union": "*",
+    "when": "~3.7.2",
+    "st": "~0.5.3",
+    "multiparty": "~4.1.1",
+    "built.io": "~2.0.38",
+    "googleapis": "~2.0.2",
+    "connect-cors": "~0.5.6"
+  }
+}
