@@ -1,7 +1,7 @@
 /**************************************************************************
-*	Name   		 = Yelp Demo Task																							*
+*	Name   		 = Venue Searcher Demo Task																		*
 *	Author 		 = Altamash	Ansari																						*
-*	Desciption = To simulate the yelp api server using Nodejs and Flatiron	*
+*	Desciption = To simulate the api server using Nodejs and Flatiron				*
 **************************************************************************/
 
 Routes Availables
